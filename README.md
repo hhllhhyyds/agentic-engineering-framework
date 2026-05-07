@@ -269,6 +269,5 @@ Skill 分为四类：
 |------|------|------|------|
 | `workflow-*` | 工作流 | 端到端流程控制，是主入口 | `workflow-code-generation`、`workflow-code-review` |
 | `bp-*` | 最佳实践 | 通用工程知识，由工作流按需加载 | `bp-coding-best-practices`、`bp-distributed-systems` |
-| `std-*` | 编码规范 | 语言/团队特定的编码标准 | `std-cpp`、`std-go` |
+| `std-*` | 编码规范 | 语言/团队特定的编码标准 | `std-cpp`、`std-go`、 `std-rust` |
 | *（其他）* | 工具型 | 独立能力 | `troubleshooting`、`self-refinement` |
-

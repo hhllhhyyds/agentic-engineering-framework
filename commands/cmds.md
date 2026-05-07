@@ -35,6 +35,7 @@
 ### Standards（项目编码规范）
 - `std-cpp` — C++ 编码规范
 - `std-go` — Go 编码规范
+- `std-rust` — Rust 编码规范
 
 ### 工具型
 - `troubleshooting` — 问题排查
